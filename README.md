@@ -1,0 +1,2 @@
+# starter
+Javascript development environment
