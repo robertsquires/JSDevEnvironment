@@ -1,2 +1,2 @@
-# starter
+# JSDevEnvironment
 Javascript development environment
